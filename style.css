@@ -30,9 +30,9 @@ body{
   position:absolute;
   width: 100vh;
   height: 94vh;
-  background-image: url('​https://www.freeiconspng.com/uploads/grass-png-images-pictures-transparent-28.png');
+  background-image: url('imagies/green-png-44873.png');
   background-repeat: repeat-x;
-  background-position: bottom;
-	background-size: 4vh; 
+  background-position: left bottom;
+	background-size: 30vh; 
   z-index: 1;
 }
